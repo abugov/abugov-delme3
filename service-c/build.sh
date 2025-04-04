@@ -1,4 +1,4 @@
-set -e
+set -e # Fail on error
 
 echo building service-c started ...
 
