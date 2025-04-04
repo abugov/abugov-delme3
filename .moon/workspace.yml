@@ -6,6 +6,7 @@ $schema: './cache/schemas/workspace.json'
 projects:
   service-a: 'service-a'
   service-b: 'service-b'
+  service-c: 'service-c'
 
 vcs:
   manager: 'git'
