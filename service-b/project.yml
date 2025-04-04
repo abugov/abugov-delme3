@@ -1,5 +1,0 @@
-tasks:
-  test:
-    command: "echo 'Running tests for service B'"
-    inputs:
-      - "**"
