@@ -1,0 +1,7 @@
+tasks:
+  build:
+    command: 'bash build.sh'
+    inputs:
+      - '**/*'
+    outputs:
+      - 'dist'
