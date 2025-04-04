@@ -2,6 +2,6 @@ tasks:
   build:
     command: 'bash build.sh'
     inputs:
-      - 'folder-a1/**/*'
+      - '**/*'
     outputs:
       - 'dist'
